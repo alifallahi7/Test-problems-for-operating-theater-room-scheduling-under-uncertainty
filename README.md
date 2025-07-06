@@ -7,4 +7,7 @@ Additionally, I would like to note that the data in this repository is based on 
 
 I encourage you to look at the paper for a deeper understanding of the problem being solved and the methodology used. 
 
+Ahmadian, M. A., Varmazyar, M., & Fallahi, A. (2025). Efficient scheduling of integrated operating rooms and post-anesthesia care units under uncertain surgery and recovery times: an artificial neural network-metaheuristic framework. Soft Computing, 29(8), 3909-3941.
+
+
 I appreciate your interest in our work.
